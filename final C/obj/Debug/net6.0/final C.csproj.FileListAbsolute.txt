@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.AssemblyInfo.cs
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mahirfm\finalc-\final C\bin\Debug\net6.0\final C.exe
+C:\Users\User\source\repos\mahirfm\finalc-\final C\bin\Debug\net6.0\final C.deps.json
+C:\Users\User\source\repos\mahirfm\finalc-\final C\bin\Debug\net6.0\final C.runtimeconfig.json
+C:\Users\User\source\repos\mahirfm\finalc-\final C\bin\Debug\net6.0\final C.dll
+C:\Users\User\source\repos\mahirfm\finalc-\final C\bin\Debug\net6.0\final C.pdb
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.dll
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\refint\final C.dll
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.pdb
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\final C.genruntimeconfig.cache
+C:\Users\User\source\repos\mahirfm\finalc-\final C\obj\Debug\net6.0\ref\final C.dll
